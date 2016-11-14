@@ -1,0 +1,1 @@
+Dies ist eine Test-Textdatei, die für die Überprüfung von GIT erstellt wurde am 14.11.16 08:41 von mir.
